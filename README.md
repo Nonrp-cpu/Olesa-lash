@@ -4,7 +4,7 @@
 
 <br>
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-C9A882?style=for-the-badge&labelColor=1F1C18&logo=googlechrome&logoColor=white)](https://Nonrp-cpu.github.io/Olesa-lash/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-C9A882?style=for-the-badge&labelColor=1F1C18&logo=googlechrome&logoColor=white)](https://nonrp-cpu.github.io/Olesa-lash/)
 [![Deploy Guide](https://img.shields.io/badge/Deploy-Guide-C9A882?style=for-the-badge&labelColor=1F1C18&logo=github&logoColor=white)](#-деплой-за-3-минуты)
 [![Report a bug](https://img.shields.io/badge/Report-Issue-C9A882?style=for-the-badge&labelColor=1F1C18&logo=githubactions&logoColor=white)](https://github.com/Nonrp-cpu/Olesa-lash/issues)
 
@@ -236,7 +236,7 @@ npx serve .
 
 ## 📄 Лицензия и автор
 
-Проект создан по индивидуальному заказу. Использование кода и материалов — по согласованию с автором.
+Проект создан по индивидуальному заказу.
 
 Фото в демо-версии: [picsum.photos](https://picsum.photos/) — замените на свои перед публикацией.
 Шрифты: [Outfit](https://fonts.google.com/specimen/Outfit) и [DM Serif Display](https://fonts.google.com/specimen/DM+Serif+Display), SIL Open Font License.
