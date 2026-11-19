@@ -1,8 +1,3 @@
-<div align="center">
-
-<img src="docs/banner.png" alt="OLESA — лендинг мастера по наращиванию ресниц" width="100%">
-
-<br>
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-C9A882?style=for-the-badge&labelColor=1F1C18&logo=googlechrome&logoColor=white)](https://nonrp-cpu.github.io/Olesa-lash/)
 [![Deploy Guide](https://img.shields.io/badge/Deploy-Guide-C9A882?style=for-the-badge&labelColor=1F1C18&logo=github&logoColor=white)](#-деплой-за-3-минуты)
